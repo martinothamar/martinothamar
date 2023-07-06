@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, my name is Martin
+I am a polyglot programmer and open source enthusiast, working as a consultant at [Forse](https://forse.no/) <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/no.svg" height="12" />
 
-<!--
-**martinothamar/martinothamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I maintain
+  * [Mediator](https://github.com/martinothamar/Mediator) - a fast (close to 0 overhead) sourcegenerator-based mediator pattern implementation in .NET
+  * [Fast.PRNGs.NET](https://github.com/martinothamar/Fast.PRNGs.NET) - fast PRNG implementations (up to 2.5x faster than `System.Random`)
+* I experiment and learn about systems programming, programming languages, architectures and designs in my ["building x in y"](https://github.com/martinothamar/building-x-in-y)-repository
+* Currently exploring **Go**, **Rust** and **Zig** 
 
-Here are some ideas to get you started:
+I strive to make simple, observable systems - employing [mechanical sympathy](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) and low level understanding to build efficient and reliable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=martinothamar&show_icons=true&count_private=true" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinothamar" height="250" />
+</p>
+
+<details>
+  
+<summary>:eyes: OpenSource</summary>
+<br />
+
+<img src="https://github-contributor-stats.vercel.app/api?username=martinothamar&combine_all_yearly_contributions=true&limit=10" />
+
+</details>
