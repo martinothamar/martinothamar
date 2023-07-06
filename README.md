@@ -12,8 +12,8 @@ I strive to make simple, observable systems - employing [mechanical sympathy](ht
 <hr />
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinothamar&show_icons=true&count_private=true" height="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinothamar" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martinothamar&show_icons=true&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinothamar" height="200" />
 </p>
 
 <details>
