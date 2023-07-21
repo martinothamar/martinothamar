@@ -4,7 +4,7 @@ I am a polyglot programmer and open source enthusiast, working as a consultant a
 * I've built
   * [Mediator](https://github.com/martinothamar/Mediator) - a fast (close to 0 overhead) sourcegenerator-based mediator pattern implementation in .NET
   * [Fast.PRNGs.NET](https://github.com/martinothamar/Fast.PRNGs.NET) - fast PRNG implementations (up to 2.5x faster than `System.Random`)
-  * [simd-prng](https://github.com/martinothamar/simd-prng) - SIMD implementations of common PRNGs in Rust 🦀 (for example Xoshiro256++ ~28 GiB/s u64 gen on my laptop, about 3.8x faster than non-vectorized)
+  * [simd-rand](https://github.com/martinothamar/simd-rand) - SIMD implementations of common PRNGs in Rust 🦀 (for example Xoshiro256+ ~50 GiB/s u64 gen using AVX512 on my laptop, about 5x faster than non-vectorized)
 * I experiment and learn about systems programming, programming languages, architectures and designs in my ["building x in y"](https://github.com/martinothamar/building-x-in-y)-repository
 * Currently exploring **Go**, **Rust** and **Zig** 
 
