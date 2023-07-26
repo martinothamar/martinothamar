@@ -6,7 +6,7 @@ I am a polyglot programmer and open source enthusiast, working as a consultant a
   * [Fast.PRNGs.NET](https://github.com/martinothamar/Fast.PRNGs.NET) - fast PRNG implementations (up to 2.5x faster than `System.Random`)
   * [simd-rand](https://github.com/martinothamar/simd-rand) - SIMD implementations of common PRNGs in Rust 🦀 (for example Xoshiro256+ ~50 GiB/s u64 gen using AVX512 on my laptop, about 5x faster than non-vectorized)
   * ["building x in y"](https://github.com/martinothamar/building-x-in-y) - experiments and learning about systems programming, programming languages, architectures and designs
-    * [Simulating football seasons using the Monte Carlo method](https://github.com/martinothamar/building-x-in-y/tree/main/monte-carlo-sim) 
+    * [Simulating football seasons using the Monte Carlo method](https://github.com/martinothamar/building-x-in-y/tree/main/monte-carlo-sim) - lots of SIMD and performance engineering
 * Currently exploring
   * **Rust**, **Zig** and **Go** - I think Rust is a very good _high level_ language. Zig seems like a great C replacement
 
