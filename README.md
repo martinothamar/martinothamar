@@ -7,6 +7,7 @@ I am a polyglot programmer and open source enthusiast, working as a consultant a
   * [simd-rand](https://github.com/martinothamar/simd-rand) - SIMD implementations of common PRNGs in Rust 🦀 (for example Xoshiro256+ ~60 GiB/s u64 gen using AVX512 on my laptop, about 6x faster than non-vectorized)
   * ["building x in y"](https://github.com/martinothamar/building-x-in-y) - experiments and learning about systems programming, programming languages, architectures and designs
     * [Simulating football seasons using the Monte Carlo method in Rust](https://github.com/martinothamar/building-x-in-y/tree/main/monte-carlo-sim) - lots of SIMD and performance engineering
+    * [HTTP servers](https://github.com/martinothamar/building-x-in-y/tree/main/http-server) - experimenting with various techniques and architectures for performent HTTP servers: IO Uring, Linux, thread-per-core...
 * Currently exploring
   * **Rust**, **Zig** and **Go** - I think Rust is a very good _high level_ language. Zig seems like a great C replacement
 
