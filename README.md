@@ -2,7 +2,7 @@
 I am a polyglot programmer and open source enthusiast, working as a consultant at [Forse](https://forse.no/) <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/no.svg" height="12" />
 
 * I've built
-  * [Mediator](https://github.com/martinothamar/Mediator) - a fast (close to 0 overhead) sourcegenerator-based mediator pattern implementation in .NET
+  * [Mediator](https://github.com/martinothamar/Mediator) - a fast (close to 0 overhead) sourcegenerator-based mediator pattern implementation in .NET. Mostly MediatR-compatible, but faster
   * [Fast.PRNGs.NET](https://github.com/martinothamar/Fast.PRNGs.NET) - fast PRNG implementations (up to 2.5x faster than `System.Random`)
   * [simd-rand](https://github.com/martinothamar/simd-rand) - SIMD implementations of common PRNGs in Rust 🦀 (for example Xoshiro256+ ~60 GiB/s u64 gen using AVX512 on my laptop, about 6x faster than non-vectorized)
   * ["building x in y"](https://github.com/martinothamar/building-x-in-y) - experiments and learning about systems programming, programming languages, architectures and designs
