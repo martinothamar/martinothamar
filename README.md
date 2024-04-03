@@ -15,6 +15,13 @@ I strive to make simple, observable systems - employing [mechanical sympathy](ht
 
 <hr />
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=martinothamar&show_icons=true&count_private=true" height="225" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinothamar" height="225" />
+</p>
+
+<hr />
+
 Some of my favorite technical content 📖:
 
 * [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - by Alexis King
@@ -36,10 +43,3 @@ Some of my favorite technical content 📖:
 * [Performance Excuses Debunked](https://www.youtube.com/watch?v=x2EOOJg8FkA) - by Casey Muratori
 * ["Clean" Code, Horrible Performance](https://www.youtube.com/watch?v=tD5NrevFtbU) - by Casey Muratori
 * [Adventures in Performance: Efficiency Analysis of Large-scale Compute](https://www.infoq.com/presentations/factors-code-performance/) - by Thomas Dullien/Halvar Flake
-
-<hr />
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinothamar&show_icons=true&count_private=true" height="225" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinothamar" height="225" />
-</p>
