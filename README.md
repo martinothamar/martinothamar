@@ -43,3 +43,4 @@ Some of my favorite technical content 📖:
 * [Performance Excuses Debunked](https://www.youtube.com/watch?v=x2EOOJg8FkA) - by Casey Muratori
 * ["Clean" Code, Horrible Performance](https://www.youtube.com/watch?v=tD5NrevFtbU) - by Casey Muratori
 * [Adventures in Performance: Efficiency Analysis of Large-scale Compute](https://www.infoq.com/presentations/factors-code-performance/) - by Thomas Dullien/Halvar Flake
+* [Architecture by Fashion, Not Fundamentals](https://substack.com/inbox/post/173391778) - by kellabyte
