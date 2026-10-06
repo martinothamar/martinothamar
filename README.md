@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Martin
-I am a polyglot programmer and open source enthusiast, working as a consultant at [Forse](https://forse.no/) <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/no.svg" height="12" />
+I am a polyglot programmer and open source enthusiast, working as a consultant at [Digdir](https://digdir.no/) <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/no.svg" height="12" />
 
 * I've built
   * [Mediator](https://github.com/martinothamar/Mediator) - a fast (close to 0 overhead) sourcegenerator-based mediator pattern implementation in .NET. Mostly MediatR-compatible, but faster
